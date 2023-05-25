@@ -1,4 +1,6 @@
-# User-Details-React-js-
+# User-Details-React-js
+### preview :
+<b>Live link</b> - [User-Details-React-js](https://oyws58.csb.app/)
 ### Description :
 
 The web application created using create-react-app is a user card grid layout with a navbar displaying a brand name. The application allows users to fetch user data from an API and display it in a grid format.
